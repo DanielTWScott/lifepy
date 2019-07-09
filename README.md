@@ -6,7 +6,9 @@ In particular, I investigate differences in processing when using Python, the nu
 
 Please see my "to do" list for information on planned next steps of this project.
 
-# Example Animation of a Gosper Glider Gun 
+## Example Animation of a Gosper Glider Gun 
+The below animation shows a Gosper Glider Gun created within the Game of Life. (Please see [Gosper Glider Gun] http://www.conwaylife.com/wiki/Gosper_glider_gun for further information on this structure)
+
 ![](gosper.gif)
 
 ## Getting Started
