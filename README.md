@@ -6,6 +6,7 @@ In particular, I investigate differences in processing when using Python, the nu
 
 Please see my "to do" list for information on planned next steps of this project.
 
+# Example Animation of a Gosper Glider Gun 
 ![](gosper.gif)
 
 ## Getting Started
@@ -16,17 +17,12 @@ Please see my "to do" list for information on planned next steps of this project
 
 ### Installing
 - The simplest way for the user to install this would be to clone this repository
-- It should be noted that this project has only been tested on my machine, using Python 3. [ ] via Anaconda
+- It should be noted that this project has only been tested on my machine, using Python 3.7 via Anaconda
 
 ## Running the code
-
-View interactive matplotlib
-
-```sh
-python life.py gosper
-```
-
-use the `--make-gif` flag to save to a .gif.
+The user should follow the below steps:
+- View and run the notebook (of the files saved in this repository) with JupyterLab (in particular the file life.py, which contains the primary code underlying this project)
+- If desirer, use the `--make-gif` flag to save the output of to a .gif file for display
 
 View the notebook with Jupyter Lab.
 
