@@ -2,7 +2,7 @@
 
 This project primarily concern's simulation of Conway's Game of Life using Python. 
 
-In particular, I investigate differences in processing when using Python, the numpy package, and Cython. This demonstrated that processing speeds using the numpy package SAY WHAT THE DIFFERENCES IN SPEED ARE.
+In particular, I investigate differences in processing when using Python, the numpy package, and Cython. This demonstrated that processing speeds using either the numpy package or Cython are approximately five times as fast as when using standard Python.
 
 Please see my "to do" list for information on planned next steps of this project.
 
