@@ -1,6 +1,10 @@
 # Game of Life
 
-Messing around with Python, numpy and Cython with Conway's Game of Life.
+This project primarily concern's simulation of Conway's Game of Life using Python. 
+
+In particular, I investigate differences in processing when using Python, the numpy package, and Cython. This demonstrated that processing speeds using the numpy package SAY WHAT THE DIFFERENCES IN SPEED ARE.
+
+Please see my "to do" list for information on planned next steps of this project.
 
 ![](gosper.gif)
 
@@ -8,10 +12,11 @@ Messing around with Python, numpy and Cython with Conway's Game of Life.
 
 ### Prerequisites
 - Python 3
-- ImageMagick if you want to use `matplotlib` to make a gif
+- ImageMagick (if the user wishes to use the 'matplotlib' package to make a gif similar to that seen above)
 
 ### Installing
-- Clone this repository if you want to - I've only tested this on my machine with Anaconda Python
+- The simplest way for the user to install this would be to clone this repository
+- It should be noted that this project has only been tested on my machine, using Python 3. [ ] via Anaconda
 
 ## Running the code
 
@@ -26,5 +31,4 @@ use the `--make-gif` flag to save to a .gif.
 View the notebook with Jupyter Lab.
 
 ## Acknowledgments
-
-* PRESUMABLY I WANT TO ACKNOWLEDGE CONWAY WHO INVENTED THE GAME OF LIFE
+- I would like to acknowledge John Horton Conway, inventor of the Game of Life
