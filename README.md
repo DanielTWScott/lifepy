@@ -8,7 +8,7 @@ Please see my "to do" list for information on planned next steps of this project
 
 ## Example Animation of a Gosper Glider Gun 
 The below animation shows a Gosper Glider Gun created within the Game of Life. 
-Please see [Gosper Glider Gun] (https://conwaylife.com/wiki/Gosper_glider_gun) for further information on this structure
+Please see [Gosper Glider Gun](https://conwaylife.com/wiki/Gosper_glider_gun) for further information on this structure
 
 ![](gosper.gif)
 
@@ -30,4 +30,5 @@ The user should follow the below steps:
 View the notebook with Jupyter Lab.
 
 ## Acknowledgments
-- I would like to acknowledge John Horton Conway, inventor of the Game of Life
+- I would like to acknowledge John Horton Conway, inventor of the Game of Life, as well as Bill Gosper, discoverer of the gun bearing his name
+
